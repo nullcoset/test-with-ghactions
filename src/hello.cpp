@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-	std::cout << "Hi" << std::endl;
+	std::cout << "Hi, friend." << std::endl;
 }
 
